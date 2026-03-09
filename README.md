@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 AI Data Scientist
 
 A system where you upload any CSV and get **senior data scientist–style** analysis: profiling, EDA, statistical structure, anomalies, modeling recommendations, and an executive summary — in under a few seconds.
@@ -102,3 +103,7 @@ If the key is not set, the app still runs and uses a **template-based** summary.
 - **Interactive insight cards** — each flag expandable with recommendation and math explanation.
 
 You can extend with: Bayesian inference, drift detection, fairness metrics, or LangGraph for multi-agent reasoning.
+=======
+# AI-Data-Project
+Agentic AI Data Science Stack This project is a full-stack, production-ready AI platform designed to automate complex data diagnostics and predictive modeling. Unlike standard notebooks, this system uses an Agentic Orchestration architecture to handle data health, statistical profiling, and anomaly detection through specialized autonomous modules. 
+>>>>>>> 0f8be79801aa529f4cc1eec1c70abb396892457d
